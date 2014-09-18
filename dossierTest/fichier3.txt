@@ -4,6 +4,6 @@ fonction branche1() {
 	une ligne à conserver
 }
 fonction branche2() {
-	test
+	test test
 	une ligne à conserver
 }
