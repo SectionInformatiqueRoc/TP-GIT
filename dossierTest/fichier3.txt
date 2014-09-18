@@ -1,10 +1,9 @@
 fonction branche1() {
-	une ligne à supprimer
-	une ligne à modifier
+
+	test
 	une ligne à conserver
 }
 fonction branche2() {
-	une ligne à modifier
-	une ligne à supprimer
+	test
 	une ligne à conserver
 }
