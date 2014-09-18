@@ -1,9 +1,0 @@
-fonction branche1() {
-
-	test
-	une ligne à conserver
-}
-fonction branche2() {
-	test test
-	une ligne à conserver
-}
